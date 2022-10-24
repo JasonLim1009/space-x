@@ -14,8 +14,7 @@ const Copyright = () => {
             delay: 0.2,
           }}
           viewport={{ once: false, amount: 0 }}
-          className='tracking-[0.02em] text-base'
-        >
+          className='tracking-[0.02em] text-base'>
           &copy; 2022
           <span className='font-semibold text-white'> | Created By Jason LIM | </span>
           All rights reserved.
